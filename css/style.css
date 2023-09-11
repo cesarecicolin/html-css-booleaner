@@ -38,3 +38,24 @@ th{
 .sfondo-azzuro td{
     background-color:#b1e5f2;
 }
+/* footer */
+#grigio{
+    color: gray;
+}
+.fondo{
+    background-image: url(../img/monitor.jpg);
+    border: 1px solid black ;
+    width: 280px;
+    height: 200px;
+}
+.grafico{
+    border: 1px solid black ;
+    width: 280px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    margin-top: 10px;
+}
+.descrizione{
+    color: white;
+    font-size: 30px;
+}
