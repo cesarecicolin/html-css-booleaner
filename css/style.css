@@ -20,3 +20,21 @@ header {
 
  /* section */
 
+.giallo{
+    background-color: yellow;
+}
+/* table */
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    
+    padding: 8px;}
+th{
+    background-color: #20a9e5;
+    color: white;
+}
+.sfondo-azzuro td{
+    background-color:#b1e5f2;
+}
